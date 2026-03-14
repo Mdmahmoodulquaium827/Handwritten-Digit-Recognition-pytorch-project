@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using PyTorch
+#1. Handwritten Digit Recognition using PyTorch
 
 This project uses a Convolutional Neural Network (CNN) to recognize handwritten digits from the MNIST dataset. It includes:
 
